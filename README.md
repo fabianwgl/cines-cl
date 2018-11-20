@@ -1,4 +1,7 @@
-# info-rut
+# cines-cl
+
+[![npm version](https://img.shields.io/npm/v/cines-cl.svg)](https://www.npmjs.com/package/cines-cl)
+[![npm downloads](https://img.shields.io/npm/dm/cines-cl.svg)](https://www.npmjs.com/package/cines-cl)
 
 > Fetches billboard and releases of chilean cinemas
 
