@@ -1,6 +1,6 @@
 {
   "name": "cines-cl",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Fetch billboard of chilean cinemas",
   "main": "src/index.js",
   "scripts": {
